@@ -1,5 +1,6 @@
 import telebot
 
+# токен бота, которого мы используем
 bot = telebot.TeleBot('6535944016:AAEEHR6N_pZeQQNRb-IKRI5vCqQoNmrBOFo')
 
 # Обработчик команды /start
